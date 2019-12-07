@@ -1,4 +1,4 @@
-# cryptocurrency-concept-in-javascript
+# cryptocurrency-concept
 
 ## Installation
 
