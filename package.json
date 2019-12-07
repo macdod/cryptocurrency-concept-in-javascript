@@ -1,0 +1,23 @@
+{
+  "name": "scoin",
+  "version": "1.0.0",
+  "description": "simple implementation of cryptocurrency in nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node index.js"
+  },
+  "keywords": [
+    "cryptocurrency"
+  ],
+  "author": "sarthak sadh",
+  "license": "ISC",
+  "dependencies": {
+    "arg": "^4.1.0",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "request": "^2.88.0",
+    "sha256": "^0.2.0",
+    "uid-generator": "^2.0.0"
+  }
+}
